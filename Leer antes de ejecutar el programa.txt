@@ -1,0 +1,7 @@
+Nota: Para ver las graficas cada programa se ejecuta de forma independiente.
+
+Para los programas:
+-Grafica3D
+-GraficaArchivo
+La grafica queda guardada como una imagen dentro de la carpeta del programa principal. Por aparte, los datos de la grafica de archivo vienen incluidos en la carpeta, sus valores se pueden cambiar si se mantiene el formato (Nombre , valor).
+

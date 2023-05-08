@@ -1,0 +1,4 @@
+Sobrepeso, 8.1   
+Obesidad, 9.6   
+Riesgo de subnutricion, 16.4  
+Normopeso, 65.9 
