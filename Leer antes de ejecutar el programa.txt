@@ -3,5 +3,5 @@ Nota: Para ver las graficas cada programa se ejecuta de forma independiente.
 Para los programas:
 -Grafica3D
 -GraficaArchivo
-La grafica queda guardada como una imagen dentro de la carpeta del programa principal. Por aparte, los datos de la grafica de archivo vienen incluidos en la carpeta, sus valores se pueden cambiar si se mantiene el formato (Nombre , valor).
+La grafica queda guardada en la misma ubicacion donde este ubicado el programa. Por aparte, los datos de la graficaArchivo  deben incluirse en una carpeta con el programa para que se puedan leer lo datos, sus valores se pueden cambiar si se mantiene el formato (Nombre , valor).(Los datos es el archivo datos.txt)
 
